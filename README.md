@@ -1,1 +1,8 @@
-# SyriaTelco_Collins_repo-
+# SyriaTel Customer Churn prediction
+
+Author : Collins Ouko
+
+Overview
+
+For Telco companies it is key to attract new customers and at the same time avoid contract terminations (=churn) to grow their revenue generating base. Looking at churn, different reasons trigger customers to terminate their contracts, for example better price offers, more interesting packages, bad service experiences or change of customers’ personal situations.
+This project investigates possible causes of customer churning and suggests recommendations to prevent churning.
